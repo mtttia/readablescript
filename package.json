@@ -1,0 +1,15 @@
+{
+  "name": "readablescript",
+  "version": "1.0.0",
+  "description": "scripting language compiler",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  },
+  "author": "mtttia",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.3"
+  }
+}

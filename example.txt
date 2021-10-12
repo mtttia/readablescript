@@ -1,0 +1,59 @@
+//Variable assignement
+number = 3
+number = 3 if assingn (assign is a boolean)
+number = if assign is 3 else 7 (if assign is true number will be 3, else it will be 7)
+
+//if statement
+if boolean do
+  //code
+  //...
+stop
+
+if boolean do
+  //code
+  //...
+else
+  //code
+  //...
+stop
+
+use 'do' as '{' in javascript and 'stop' like '}' char.
+
+//method definition
+
+nomeMetodo() do
+  //code
+  ...
+  ...
+stop
+
+nomeMetodo() //method call
+
+//OOP
+define oggetto:
+	has:
+		attr1, 
+		attr2, 
+		attr3
+	actions:
+		action1() do
+		...
+		...
+		...
+		stop
+		action2() do
+		...
+		...
+		...
+		stop
+stop
+
+//logic operator:
+and, or, not, equals, greater, lower, equals grater, equals lower, not greater, not lower, not equals greater
+, => is used fore close a '(' that is been open since the ',' first or from the begin of the expression
+
+if var not greater var2 and var3 equals greater var5, or var7 lower var9 do
+  ...
+  ...
+  ...
+stop

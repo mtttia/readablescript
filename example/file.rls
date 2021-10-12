@@ -1,0 +1,11 @@
+file = "sonoUnFile"
+
+if file.toLocaleLowerCase() equals "ciao" do
+  console.log('impossibile');
+else
+  console.log('va già meglio')
+stop
+
+if 2 not greater 3 do
+  console.log('will be true')
+stop
